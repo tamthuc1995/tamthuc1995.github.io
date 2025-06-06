@@ -12,3 +12,17 @@ bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
+
+---
+title: "Interpretable lightweight transformer via unrolling of learned graph smoothness priors"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-04-15-nisp2024-lightweight-transformer
+excerpt: 'This paper is about graph algorithm unrolling, which lead to a interpretable lightweight transformer-like architecture'
+date: 2024-04-15
+venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
+slidesurl: ''
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/0c38f54740062529aa4117a04b583f3c-Paper-Conference.pdf'
+bibtexurl: ''
+citation: ''
+---
