@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "[CV](http://tamthuc1995.github.io/files/TamThuc_Engineering_CV.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-My [CV](http://tamthuc1995.github.io/files/TamThuc_Engineering_CV.pdf)
+<!-- My [CV](http://tamthuc1995.github.io/files/TamThuc_Engineering_CV.pdf) -->
 
 <!-- 
 {% include base_path %}

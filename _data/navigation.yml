@@ -23,8 +23,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
+  - title: "Resume"
+    url: http://tamthuc1995.github.io/files/TamThuc_Engineering_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
