@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "The story about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-The story
-======
 
 My research experience includes a research assistantship in Graph and Image Signal Processing Lab (GIPS) at York University with Prof. Gene Cheung, a professor in the EECS department in the Lassonde School of Engineering. I have also worked as a student researcher at Google AI - Perception Lab with Dr. Philip Chou. I have finished  my master's thesis “Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention”, which is the cumulative result of my works at both GIPS and Google AI. 
 
