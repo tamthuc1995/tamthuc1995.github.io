@@ -8,4 +8,4 @@ In this project, I conduct various experiments to test my architecture with many
 
 Link: https://github.com/tamthuc1995/ImageRestoration-Development-Unrolling
 
-Explanation Blog: TBD
+Blog: TBD
